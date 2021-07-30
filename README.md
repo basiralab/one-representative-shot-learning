@@ -1,5 +1,4 @@
-# one-representative-shot-learning
-# One Representative-shot Learning with CBT
+# One Representative-shot Learning 
 Please contact guvercin16@itu.edu.tr for inquiries. Thanks. 
 
 ![One Representative-shot pipeline](main_figure.PNG)
