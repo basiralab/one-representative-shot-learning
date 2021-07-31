@@ -7,7 +7,7 @@ Please contact guvercin16@itu.edu.tr for inquiries. Thanks.
 
 > **One Representative-shot Learning with CBT**
 >
-> Umut Güvercin and Islem Rekik
+> Umut Güvercin, Mohammed Amine Gharsallaoui and Islem Rekik
 >
 > BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 >
