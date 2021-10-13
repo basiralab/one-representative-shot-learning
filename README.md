@@ -57,3 +57,15 @@ $ python TimeSeriesPrediction.py
 * [Deep Graph Normalizer](https://github.com/basiralab/DGN)
 * [EvoGraphNet](https://github.com/basiralab/EvoGraphNet)
 
+# Please cite the following paper when using RBGM:
+
+```latex
+@inproceedings{guvercin2021,
+  title={One Representative-Shot Learning Using a Population-Driven Template with Application to Brain Connectivity Classification and Evolution Prediction},
+  author={Guvercin, Umut and Gharsallaoui, Mohammed Amine and Rekik, Islem},
+  booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+  pages={25--36},
+  year={2021},
+  organization={Springer}
+}
+```
