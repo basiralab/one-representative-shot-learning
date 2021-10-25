@@ -57,6 +57,10 @@ $ python TimeSeriesPrediction.py
 * [Deep Graph Normalizer](https://github.com/basiralab/DGN)
 * [EvoGraphNet](https://github.com/basiralab/EvoGraphNet)
 
+# Paper on arXiv
+
+You can download the paper at https://arxiv.org/abs/2110.11238
+
 # Please cite the following paper when using RBGM:
 
 ```latex
